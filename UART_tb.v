@@ -1,16 +1,16 @@
 //////////////////////////////////////////////////////////////////////////////////
-// Copyright (c) 2021 Harshal Chowdhary
+// Copyright (c) 2023 Aditi Garg
 // ///////////////////////////////////////////////////////////////////////////////
 // File Name:      UART_PROTOCOL.v
 // Type:           Module
-// Department:     Electronics and Communication Engineering, B.Tech
-// Author:         Harshal Chowdhary
-// Authors' Email: harshalchowdhary15@gmail.com
-// Create Date:    20:16:10 07/03/2021 
+// Department:     Electrical Engineering, B.Tech
+// Author:         Aditi Garg
+// Authors' Email: aditigarg197@gmail.com
+// Create Date:    20:16:10 07/03/2023 
 // Module Name:    UART_tb 
 //////////////////////////////////////////////////////////////////////////////////
 // Release History
-// 06/22/2021 Harshal Chowdhary Test Bench
+// 06/22/2023 Aditi Garg Test Bench
 //////////////////////////////////////////////////////////////////////////////////
 // Keywords:       UART PROTOCOL, Test Bench
 //////////////////////////////////////////////////////////////////////////////////
