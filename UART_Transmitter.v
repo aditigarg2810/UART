@@ -1,18 +1,18 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Copyright (c) 2021 Harshal Chowdhary
+// Copyright (c) 2023 Aditi Garg
 // ///////////////////////////////////////////////////////////////////////////////
 // File Name:      UartProtocol.v
 // Type:           Module
-// Department:     Electronics and Communication Engineering, B.Tech
-// Author:         Harshal Chowdhary
-// Authors' Email: harshalchowdhary15@gmail.com
-// Create Date:    12:56:10 07/09/2021 
+// Department:     Electrical Engineering, B.Tech
+// Author:         Aditi Garg
+// Authors' Email: aditigarg197@gmail.com
+// Create Date:    12:56:10 07/09/2023 
 // Module Name:    uart_transmiter 
 //////////////////////////////////////////////////////////////////////////////////
 // Release History
-// 06/22/2021 Harshal Chowdhary UART Transmiter
-// 30/07/2021 Harshal Chowdhary	two always blocks 
+// 06/22/2023 Aditi Garg UART Transmiter
+// 30/07/2023 Aditi Garg	two always blocks 
 //////////////////////////////////////////////////////////////////////////////////
 // Keywords:       UART PROTOCOL. UART Transmiter
 //////////////////////////////////////////////////////////////////////////////////
