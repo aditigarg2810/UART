@@ -1,17 +1,17 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Copyright (c) 2021 Harshal Chowdhary
+// Copyright (c) 2021 Aditi Garg
 // ///////////////////////////////////////////////////////////////////////////////
 // File Name:      UartProtocol.v
 // Type:           Module
-// Department:     Electronics and Communication Engineering, B.Tech
-// Author:         Harshal Chowdhary
-// Authors' Email: harshalchowdhary15@gmail.com
-// Create Date:    12:56:10 07/02/2021 
+// Department:     Electrical Engineering, B.Tech
+// Author:         Aditi Garg
+// Authors' Email: aditigarg197@gmail.com
+// Create Date:    12:56:10 07/02/2023 
 // Module Name:    uart_receiver 
 //////////////////////////////////////////////////////////////////////////////////
 // Release History
-// 06/22/2021 Harshal Chowdhary UART Receiver
+// 06/22/2021 Aditi Garg UART Receiver
 //////////////////////////////////////////////////////////////////////////////////
 // Keywords:       UART PROTOCOL. UART Receiver
 //////////////////////////////////////////////////////////////////////////////////
